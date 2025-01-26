@@ -26,5 +26,4 @@ while(state.capitalize()=="Yes" or state.lower()=="yes" or state.upper()=="YES")
         print("Ok Bye")
         
 #This is newly added line to test
-      
-    
+#This newly added second line
