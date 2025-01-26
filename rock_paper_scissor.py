@@ -24,5 +24,7 @@ while(state.capitalize()=="Yes" or state.lower()=="yes" or state.upper()=="YES")
     state=input("Are you ready Yes|No:")
     if state.capitalize()=="No" or state.lower()=="no" or state.upper()=="NO":
         print("Ok Bye")
+        
+#This is newly added line to test
       
     
