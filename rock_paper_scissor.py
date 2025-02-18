@@ -47,4 +47,3 @@ while state.capitalize() == "Yes" or state.lower() == "yes" or state.upper() == 
 #This is newly added line to test
 #This newly added second line
 # Hi, I learned how to use git
-#Today date is 19:48
