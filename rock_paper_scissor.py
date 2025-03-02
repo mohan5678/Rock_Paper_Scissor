@@ -44,6 +44,6 @@ while state.capitalize() == "Yes" or state.lower() == "yes" or state.upper() == 
     if state.capitalize() == "No" or state.lower() == "no" or state.upper() == "NO":
         print("Ok Bye")  # Farewell message
 
-#This is newly added line to test
+#IND VS NZ
 #This newly added second line
 # Hi, I learned how to use git
