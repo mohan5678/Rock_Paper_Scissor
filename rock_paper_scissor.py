@@ -48,3 +48,5 @@ while state.capitalize() == "Yes" or state.lower() == "yes" or state.upper() == 
 #India will play against Newzland in final and will win the match
 #This newly added second line
 # Hi, I learned how to use git
+
+#Will i gain good knowledge in ai
