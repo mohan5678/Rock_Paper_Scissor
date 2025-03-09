@@ -44,13 +44,4 @@ while state.capitalize() == "Yes" or state.lower() == "yes" or state.upper() == 
     if state.capitalize() == "No" or state.lower() == "no" or state.upper() == "NO":
         print("Ok Bye")  # Farewell message
 
-
-def help():
-    print("python help you to clear doubts")
-
-#India will play against Aus in semifinal and won the match
 #India will play against Newzland in final and will win the match
-#This newly added second line
-# Hi, I learned how to use git
-
-#Will i gain good knowledge in ai and i enjoy learning at, ai is evolving
