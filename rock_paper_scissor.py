@@ -49,4 +49,4 @@ while state.capitalize() == "Yes" or state.lower() == "yes" or state.upper() == 
 #This newly added second line
 # Hi, I learned how to use git
 
-#Will i gain good knowledge in ai
+#Will i gain good knowledge in ai and ai is evolving
