@@ -45,6 +45,6 @@ while state.capitalize() == "Yes" or state.lower() == "yes" or state.upper() == 
         print("Ok Bye")  # Farewell message
 
 #India will play against Aus in semifinal
-#India will play final against south africa
+#India will play final against south africa and lift the cup
 #This newly added second line
 # Hi, I learned how to use git
